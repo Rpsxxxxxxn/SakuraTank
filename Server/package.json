@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "ini": "^2.0.0",
+    "mysql2": "^2.3.3-rc.0",
+    "pino": "^7.2.0",
+    "quadtree-lib": "^1.0.9",
+    "ws": "^8.2.3"
+  }
+}

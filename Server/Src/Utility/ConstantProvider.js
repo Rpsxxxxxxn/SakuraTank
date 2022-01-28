@@ -1,0 +1,5 @@
+class ConstantProvider {
+    static GetConstant() {
+        
+    }
+}
